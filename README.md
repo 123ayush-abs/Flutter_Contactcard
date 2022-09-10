@@ -1,6 +1,8 @@
+<img width="960" alt="Untitled" src="https://user-images.githubusercontent.com/74004844/189466694-2d80664c-f192-418e-96fd-314d32518766.png">
 # contact_card
 
 A new Flutter project.
+<img width="960" alt="Untitled" src="https://user-images.githubusercontent.com/74004844/189466706-27b4841b-a32f-4a5b-a11a-a573c2fcfd20.png">
 
 ## Getting Started
 
